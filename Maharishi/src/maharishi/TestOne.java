@@ -15,7 +15,10 @@ import java.util.Arrays;
 public class TestOne {
     
     //function one
-    
+    int a(int[]a)
+    {
+        return 0;
+    }
     
     int f(int[]a){
         int largest=-1;
