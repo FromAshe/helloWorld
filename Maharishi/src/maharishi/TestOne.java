@@ -15,8 +15,12 @@ import java.util.Arrays;
 public class TestOne {
     
     //function one
-    int a(int[]a)
+    int a(int[]x)
     {
+        for(int i=0;i<x.length();i++)
+        {
+         System.out.println(x[i]);   
+        }
         return 0;
     }
     
